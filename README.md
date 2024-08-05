@@ -1,6 +1,6 @@
 # go-dd
 
-A Go package similar to Laravel's `dd()` function for debugging.
+A GoLang package for easy to debug and print any type of parameters
 
 ## Installation
 
